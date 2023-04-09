@@ -1,7 +1,7 @@
 # Passo a passo para criar o comando "git clean-branches" 
-Este é um passo a passo para configurar o Git Bash e agilizar a limpeza das branches locais.
+Este é um passo a passo para configurar o Git Bash e agilizar a limpeza das branches locais, exceto a "main"
 
-## Instalando o Visual Studio Code (caso não tiver)
+## Instalando o Visual Studio Code (caso não possuir)
 
 1. Acesse o site oficial do Visual Studio Code em https://code.visualstudio.com/.
 2. Clique no botão "Download" para baixar o instalador do VS Code.
