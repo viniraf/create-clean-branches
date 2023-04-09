@@ -31,7 +31,8 @@ git config --global --edit
 Obs: Caso seu repositório utilize a branch principal como "master" ou algum outro nome, substituir o "main" do comando acima pelo nome que seu repositório utilizar.
 
 4. Salve e feche o arquivo de configuração.
-5. Agora, sempre que precisar limpar todas as branches locais, exceto a "main", basta digitar o comando:
+5. Feche e abra o Git Bash para as novas configurações serem carregadas.
+6. Agora, sempre que precisar limpar todas as branches locais, exceto a "main", basta digitar o comando:
 ```bash
 git clean-branches
 ```
